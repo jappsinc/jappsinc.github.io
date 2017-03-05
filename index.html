@@ -842,7 +842,16 @@ ac turpis egestas. Mauris sit amet viverra risus.</p>
 </div>
 <div class="row">
 <div class="col-sm-12 no-padd">
-<div class="wpc-map " data-marker='[["46.3274006","-119.019426","Here we are","default","https:\/\/upqode.com\/clients\/montana-html\/images\/markers\/marker-1.png"]]' data-zoom="10" data-style="style-1"></div>
+<div class="wpc-map" id="map"></div>
+<script>
+  var map;
+  function initMap() {
+	map = new google.maps.Map(document.getElementById('map'), {
+	  center: {lat: -34.397, lng: 150.644},
+	  zoom: 8
+	});
+  }
+</script>
 </div>
 </div>
 </div>
@@ -850,7 +859,7 @@ ac turpis egestas. Mauris sit amet viverra risus.</p>
 <div class="container">
 <div class="footer">
 <div class="folow margin-zerro">
-<a href="https://facebook.com/japps" class="fa fa fa-facebook"></a>
+<a href="https://facebook.com/JappsSystem" class="fa fa fa-facebook"></a>
 <a href="https://twitter.com/" class="fa fa fa-twitter"></a>
 <a href="https://www.linkedin.com/" class="fa fa fa-linkedin"></a>
 </div>
@@ -869,7 +878,7 @@ ac turpis egestas. Mauris sit amet viverra risus.</p>
 <script src="libs/imagesloaded.min.js"></script>
 <script src='libs/jquery.magnific-popup.min.js'></script>
 <script src='libs/isotope.pkgd.min.js'></script>
-<script src='https://maps.googleapis.com/maps/api/js?key= AIzaSyCCBZpsrHdgGkmyNeeEqqI7kW8p-P0sLV4'></script>
+<script src='https://maps.googleapis.com/maps/api/js?key= AIzaSyCCBZpsrHdgGkmyNeeEqqI7kW8p-P0sLV4 &callback=initMap' async defer></script>
 <script src='libs/equalHeightsPlugin.min.js'></script>
 <script src='libs/jquery.lettering.min.js'></script>
 <script src='libs/jquery.textillate.min.js'></script>
