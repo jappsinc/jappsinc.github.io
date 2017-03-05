@@ -2159,7 +2159,7 @@ body {
   animation-duration: 0.75s; }
 
 button.mfp-arrow:hover {
-  border-color: #C09368 !important; }
+  border-color: #D80000 !important; }
 
 .cssload-cssload-spinner:before,
 .swiper-arrow-left:hover,
@@ -2178,7 +2178,7 @@ button.mfp-arrow:hover {
 .a-btn,
 .wpcf7-form input:focus,
 .wpcf7-form textarea:focus {
-  border-color: #C09368; }
+  border-color: #D80000; }
 
 .fillter-wrap .but.activbut::before,
 .fillter-wrap .but:hover::before,
@@ -2209,7 +2209,7 @@ button.mfp-arrow:hover {
 .mfp-arrow-right:after,
 .mfp-arrow-left:after,
 .sub-menu > .sub-menu li a {
-  color: #C09368 !important; }
+  color: #D80000 !important; }
 
 .second-title p,
 .choose .right-block .title p,
@@ -2268,7 +2268,7 @@ figcaption a,
 .copyright a:hover,
 .team-slider .block-left .text h6,
 .service-block .text h6 {
-  color: #C09368; }
+  color: #D80000; }
 
 .a-btn,
 .a-btn-2,
@@ -2352,7 +2352,7 @@ footer {
   background-color: #232323; }
 
 button.mfp-arrow:hover {
-  border-color: #C09368 !important; }
+  border-color: #D80000 !important; }
 
 .cssload-cssload-spinner:before,
 .swiper-arrow-left:hover,
@@ -2373,7 +2373,7 @@ button.mfp-arrow:hover {
 .a-btn,
 .wpcf7-form input:focus,
 .wpcf7-form textarea:focus {
-  border-color: #C09368; }
+  border-color: #D80000; }
 
 .item-layer::before,
 .fillter-wrap .but.activbut::before,
@@ -2400,13 +2400,13 @@ button.mfp-arrow:hover {
 .banner-post .banner-content h2.title::before,
 .banner-post .banner-content h2.title::after,
 .a-btn::before {
-  background-color: #C09368; }
+  background-color: #D80000; }
 
 .mfp-arrow-right:after,
 .mfp-arrow-left:after,
 .copyright a:hover,
 .footer .folow a:hover {
-  color: #C09368 !important; }
+  color: #D80000 !important; }
 
 .left-menu nav ul li a {
   color: #fff !important; }
@@ -2487,7 +2487,7 @@ figcaption a,
 .swiper-arrow-left:hover,
 .swiper-arrow-right:hover,
 .info-block {
-  color: #C09368; }
+  color: #D80000; }
 
 .second-title p,
 .service-block .text h6,
@@ -2508,7 +2508,7 @@ figcaption a,
 .widget ul li:hover,
 .widget ol li:hover,
 .widget.widget_recent_comments .recentcomments .comment-author-link:hover {
-  color: #C09368; }
+  color: #D80000; }
 
 .a-btn,
 .a-btn-2,
@@ -6378,13 +6378,13 @@ a img.aligncenter {
   color: #fff; }
 
 .fillter-wrap .but.activbut::before {
-  background: #c09368; }
+  background: #D80000; }
 
 .fillter-wrap .but:hover {
   color: #fff; }
 
 .fillter-wrap .but:hover::before {
-  background: #c09368; }
+  background: #D80000; }
 
 .how-block:hover {
   background: #232323; }
@@ -7399,7 +7399,7 @@ header.scrol .navigation {
 .service-block .text h6 {
   font-size: 16px;
   font-family: "Open Sans", sans-serif;
-  color: #c09368;
+  color: #D80000;
   margin-bottom: 21px;
   display: block;
   text-align: right;
@@ -7466,7 +7466,7 @@ header.scrol .navigation {
   padding-top: 120px; }
 
 #portfolio .second-title p {
-  color: #c09368; }
+  color: #D80000; }
 
 .portfolio-items {
   opacity: 0; }
@@ -7517,7 +7517,7 @@ header.scrol .navigation {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #C09368;
+    background-color: #D80000;
     opacity: .8; }
 
 .item-layer h3 {
@@ -7588,15 +7588,15 @@ button.mfp-arrow {
 
 button.mfp-arrow:hover {
   border: 2px solid;
-  border-color: #C09368 !important; }
+  border-color: #D80000 !important; }
 
 .mfp-arrow-right:after {
   content: "" !important;
-  color: #C09368 !important; }
+  color: #D80000 !important; }
 
 .mfp-arrow-left:after {
   content: "" !important;
-  color: #C09368 !important; }
+  color: #D80000 !important; }
 
 .load-more {
   text-align: center;
@@ -7616,7 +7616,7 @@ button.mfp-arrow:hover {
   text-transform: uppercase;
   position: relative;
   background-color: #fff;
-  border-left: 4px solid #C09368;
+  border-left: 4px solid #D80000;
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
   letter-spacing: 1px;
@@ -7809,8 +7809,8 @@ button.mfp-arrow:hover {
             transform: translate(-50%, -50%); }
   .swiper-arrow-left:hover,
   .swiper-arrow-right:hover {
-    border: 1px solid #C09368;
-    color: #C09368; }
+    border: 1px solid #D80000;
+    color: #D80000; }
 
 .swiper-arrow-left {
   left: 30px; }
@@ -7867,7 +7867,7 @@ button.mfp-arrow:hover {
   padding-bottom: 19px;
   font-size: 16px;
   font-family: "Open Sans", sans-serif;
-  color: #C09368;
+  color: #D80000;
   font-weight: 400;
   letter-spacing: .7px; }
 
@@ -7898,8 +7898,8 @@ button.mfp-arrow:hover {
   font-size: 15px;
   border: 1px solid transparent; }
   .folow a:hover {
-    border: 1px solid #C09368;
-    color: #C09368; }
+    border: 1px solid #D80000;
+    color: #D80000; }
   @media (max-width: 1199px) {
     .folow a {
       margin-right: 7px; } }
@@ -8117,7 +8117,7 @@ div[role="form"] {
   display: inline-block;
   text-transform: uppercase;
   position: relative;
-  border-left: 4px solid #C09368;
+  border-left: 4px solid #D80000;
   font-size: 12px;
   font-family: "Open Sans", sans-serif;
   font-weight: 500;
@@ -8133,7 +8133,7 @@ div[role="form"] {
   bottom: 0;
   width: 0%;
   height: 100%;
-  background-color: #C09368;
+  background-color: #D80000;
   transition: all .2s ease-out;
   -webkit-transition: all .2s ease-out;
   -moz-transition: all .2s ease-out;
@@ -8248,7 +8248,7 @@ div[role="form"] {
   width: auto;
   text-transform: uppercase;
   position: relative;
-  border-left: 4px solid #C09368;
+  border-left: 4px solid #D80000;
   font-size: 12px;
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
@@ -8266,7 +8266,7 @@ div[role="form"] {
   bottom: 0;
   width: 0%;
   height: 100%;
-  background-color: #C09368;
+  background-color: #D80000;
   transition: all .2s ease-out;
   -webkit-transition: all .2s ease-out;
   -moz-transition: all .2s ease-out;
@@ -8274,7 +8274,7 @@ div[role="form"] {
 
 .mt-contact-form input[type="submit"]:hover {
   color: white;
-  background-color: #C09368; }
+  background-color: #D80000; }
 
 .mt-contact-form input[type="submit"]:hover::before {
   width: 100%;
@@ -8308,7 +8308,7 @@ footer {
   color: #b7b7b7;
   margin-right: 7px; }
   .footer .folow a:hover {
-    color: #C09368; }
+    color: #D80000; }
 
 .copyright {
   position: relative;
@@ -8323,7 +8323,7 @@ footer {
   -webkit-transition: all 300ms ease;
   transition: all 300ms ease; }
   .copyright a:hover {
-    color: #C09368; }
+    color: #D80000; }
 
 .copyright .copy {
   line-height: 20px;
@@ -9129,7 +9129,7 @@ cite {
   font-weight: 500;
   letter-spacing: .8px; }
   .sm-widget .title:hover {
-    color: #C09368; }
+    color: #D80000; }
 
 .sm-title {
   font-size: 24px;
@@ -9294,7 +9294,7 @@ cite {
   background-color: #232323;
   color: white;
   position: relative;
-  border-left: 4px solid #C09368;
+  border-left: 4px solid #D80000;
   font-size: 12px;
   font-family: "Open Sans", sans-serif;
   font-weight: 500;
@@ -9307,7 +9307,7 @@ cite {
   -moz-transition: all .2s ease-out;
   -ms-transition: all .2s ease-out; }
   .comment-widget input[type="submit"]:hover {
-    background-color: #C09368; }
+    background-color: #D80000; }
 
 .comment-widget textarea {
   padding: 10px 20px;
@@ -10276,7 +10276,7 @@ blockquote cite {
   display: inline-block;
   text-transform: uppercase;
   position: relative;
-  border-left: 4px solid #C09368;
+  border-left: 4px solid #D80000;
   font-size: 12px;
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
@@ -10292,7 +10292,7 @@ blockquote cite {
   bottom: 0;
   width: 0%;
   height: 100%;
-  background-color: #C09368;
+  background-color: #D80000;
   transition: all .2s ease-out;
   -webkit-transition: all .2s ease-out;
   -moz-transition: all .2s ease-out;
